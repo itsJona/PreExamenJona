@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PreExamenJona</string>
+
+    <array name="elementosLista">
+        <item>Dinamico</item>
+        <item>Condicion</item>
+        <item>Ciclos</item>
+        <item>Salir</item>
+    </array>
+</resources>
